@@ -1,1 +1,2 @@
 # Learning002
+This repository contains code and resources for the Learning002 project, which focuses on [brief description of the project]. The main goal of this project is to [describe the main objective or purpose].
